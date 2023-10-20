@@ -3151,6 +3151,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1920484158}
     m_Modifications:
+    - target: {fileID: 1371066121020962, guid: fbdc15967ab215741a7fe3d32e0049e2, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1848797757087140, guid: fbdc15967ab215741a7fe3d32e0049e2, type: 3}
       propertyPath: m_Name
       value: Parkgarage_prefab
